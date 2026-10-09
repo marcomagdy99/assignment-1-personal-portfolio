@@ -1,0 +1,140 @@
+a{
+    text-decoration: none;
+}
+.info{
+    background-color: #18487B;
+    padding: 50px;
+    border-radius: 10px;
+}
+.info h1{
+    color: white;
+    margin: auto;
+    width: 250px;
+}
+.info p{
+    color: white;
+    margin: 30px auto;
+    width: 250px;
+
+}
+.info .links{
+    margin: 20px auto;
+    width: 400px;
+}
+.info a{
+    color: white;
+    padding: 10px;
+    background-color: #0A2C4B;
+    border-radius: 15px;
+    margin-right: 10px;
+}
+#about{
+        background-color: rgb(218, 221, 224);
+        padding: 25px ;
+        margin-top: 50px;
+        border-radius: 10px;
+
+}
+ h3{
+    color: #18487B;
+    margin-bottom: 50px;
+    border-bottom: 1px solid #18487B;
+    padding-bottom: 10px;
+}
+#about img{
+    width: 100px;
+    border-radius: 50%;
+    float: left;
+}
+.clear{
+    clear: both;
+}
+#about div p span {
+    color: #5f8dbe;
+
+}
+#about div a{
+    background-color: #18487B;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 15px;
+    display: inline-block;
+}
+#skills{
+    background-color: rgb(218, 221, 224);
+    padding: 25px ;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+#skills .box{
+    width: 20%;
+    background-color: #4d6987;
+    color: white;
+    float: left;
+    padding: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+#skills .box h4{
+    color: #5f8dbe;
+}
+#experience{
+    background-color: rgb(218, 221, 224);
+    padding: 25px ;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+#experience .exper {
+        border-left: solid 5px #5f8dbe;
+        background-color: azure;
+        padding: 25px;
+        border-radius: 10px;
+        margin-bottom: 20px;
+
+}
+#experience .exper img{
+    width: 100px;
+    margin-right: 20px;
+    float: left;
+}
+#experience .exper h4{
+    color: #5f8dbe;
+}
+#contact{
+    background-color: #18487B;
+    color: white;
+    padding: 25px ;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+#contact h3 {
+    color: white;
+        border-bottom: 1px solid #b4bbc2;
+}
+#contact p{
+    margin-bottom: 30px;
+}
+#contact a{
+    color: white;
+    padding: 15px;
+    background-color: #4079ad;
+    border-radius: 15px;
+    margin-right: 10px;
+}
+.rights{
+    background-color: #273548;
+    margin: 20px 0;
+    color: white;
+    padding: 50px;
+    border-radius: 10px;
+}
+.rights p{
+    width: 500px;
+    margin: auto;
+
+}
+.rights span{
+    color: #5f8dbe;
+}
